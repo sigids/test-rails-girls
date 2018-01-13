@@ -1,5 +1,6 @@
 # README
 
+Tested on Windows 10
 
 * Ruby version : ruby 2.4.3p205
 
